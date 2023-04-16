@@ -3,7 +3,7 @@ import { Link, Routes, Route } from "react-router-dom";
 import { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { Home, About, AdminLayout, PublicLayout } from "./pages";
-
+debugger;
 function App() {
   // const navigate = useNavigate();
 
